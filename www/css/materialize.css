@@ -514,7 +514,7 @@
   color: #42A5F5 !important; }
 
 .blue {
-  background-color: #2196F3 !important; }
+  background-color: #16a79d !important; }
 
 .blue-text {
   color: #2196F3 !important; }
@@ -5475,6 +5475,10 @@ small {
 
 .thin {
   font-weight: 200; }
+
+.text-center{
+  text-align: center;
+}
 
 .flow-text {
   font-weight: 300; }

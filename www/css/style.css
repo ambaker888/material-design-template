@@ -1,13 +1,13 @@
-/* Custom Stylesheet */
+/*/* Custom Stylesheet */
 /**
  *
- * Made By Joash Pereira
+ * template from Joash Pereira
  * Thanks for MaterializeCSS.com
  */
 
-.default_color{background-color: #2196F3 !important}
+.default_color{background-color: #16a79d !important}
 
-.default_color_text{color: #2196F3 !important}
+.default_color_text{color: #16a79d !important}
 
 .icon-block {
     padding: 0 15px;
@@ -20,11 +20,11 @@
     min-height: 632px;
     max-height: 864px;
     position: relative;
-    background-color: #2196F3;
+    background-color: #16a79d;
 }
 
 #nav_f{
-    box-shadow: none !important; 
+    box-shadow: none !important;
     -webkit-box-shadow:none !important;
 }
 
@@ -48,20 +48,20 @@
 
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
 
-.span_h2 {font-weight: 300;color: #2196F3;}
+.span_h2 {font-weight: 300;color: #16a79d;}
 
-.text_b{color: #2196F3;}
+.text_b{color: #16a79d;}
 
 .in{font-weight: 400 !important; font-style: normal !important;}
 
 .promo i {
-    color: #2196F3;
+    color: #16a79d;
     font-size: 7rem;
     display: block;
 }
-.card-content a {color: #2196F3;}
+.card-content a {color: #16a79d;}
 
-.card-content a:hover {color: #2196F3;}
+.card-content a:hover {color: #16a79d;}
 
 #work, #team{background: rgb(247, 247, 247);}
 
@@ -112,7 +112,7 @@ nav ul a {
 }
 
 .cd-headline.type .cd-words-wrapper.selected b {
-    color: #2196F3;
+    color: #16a79d;
 }
 
 .cd-headline.type b {
@@ -229,11 +229,6 @@ nav a.button-collapse {
     left: -25px;
 }
 
-.card-avatar .waves-effect {
-    text-align: center;
-    margin-top: 20px;
-}
-
 .card-avatar img {
     height: 150px;
     width: 150px;
@@ -248,18 +243,9 @@ nav a.button-collapse {
     margin: 15px 0px;
 }
 
-.card-avatar .card-content i {
-   font-size: 1.5rem;
-}
-
-.card-avatar .card-content .card-title {
-    line-height: 30px !important;
-}
-
-.parallax-container {
-    max-height: 400px;
-}
 
 footer.page-footer {
     margin-top: 0px !important;
 }
+
+*/
